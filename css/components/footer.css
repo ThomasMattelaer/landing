@@ -1,0 +1,26 @@
+.footer{
+  background-color:white;
+  color:black;
+  margin-top: 130px;
+  display: flex;
+  justify-content: center;
+}
+
+.social-links{
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  padding: 0px 50px;
+}
+
+.social-links > a {
+  text-decoration: none;
+  color: black;
+
+}
+
+.footer-sentence{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+}

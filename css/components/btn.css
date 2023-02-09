@@ -1,0 +1,19 @@
+.btn-red{
+  color: white;
+  background-color: #f50400;
+  border: 1px solid #f50400;
+  padding: 10px 35px;
+  font-weight: bold;
+  border-radius: 4px;
+  transition: 0.6s ease;
+  position: relative;
+  top: 50px;
+  opacity: 0.8;
+  }
+
+  .btn-red:hover{
+    background-color: #f50400;
+    color: white;
+    border-radius: 20px;
+    opacity: 1;
+  }
